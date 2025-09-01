@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+a:hover{
+    font-size: larger;
+}
+h1{
+    text-align: center;
+}
+#nav{
+    height: 10svh;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: bisque;
+}
